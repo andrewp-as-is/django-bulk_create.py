@@ -4,7 +4,7 @@ $ pip install django-bulk_create
 ```
 
 ### Features
-*   `bulk_create` for multiple models
+*   multiple models aggregator
 
 ### Examples
 ```python
